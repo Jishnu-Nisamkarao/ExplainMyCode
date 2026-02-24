@@ -1,6 +1,10 @@
 # ExplainMyCode
 An Al-Powered System for Generating Explanations of Source Code in a Local Indian Language
 
+**Project Title:** NLP Code Explainer — English & Telugu
+**Domain:** Natural Language Processing
+**Platform:** Google Colab
+**Language:** Python
 
 # 🧠 NLP Code Explainer — English & Telugu
 
@@ -241,21 +245,11 @@ By combining AI, multilingual support, and an interactive interface, the system 
 
 ## 👨‍💻 Author
 
-**Project Title:** NLP Code Explainer — English & Telugu
-**Domain:** Natural Language Processing
-**Platform:** Google Colab
-**Language:** Python
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 
----
 
-If you want, I can also:
 
-* Convert this README into a **final-year project report**
-* Prepare **PPT slides**
-* Generate **abstract & objectives**
-* Create **viva questions with answers**
-
-Just tell me what you need next 😊
 
 
 
