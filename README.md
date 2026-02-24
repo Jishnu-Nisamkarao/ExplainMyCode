@@ -6,7 +6,8 @@ An Al-Powered System for Generating Explanations of Source Code in a Local India
 **Platform:** Google Colab
 **Language:** Python
 
-# 🧠 NLP Code Explainer — English & Telugu
+# 🧠 NLP Code Explainer — English & Telugu![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
+
 
 ## 📌 Project Overview
 
@@ -243,10 +244,7 @@ By combining AI, multilingual support, and an interactive interface, the system 
 
 ---
 
-## 👨‍💻 Author
-
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 
 
 
