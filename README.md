@@ -187,6 +187,8 @@ During each iteration, the current value is printed.
 range(3) ద్వారా 0, 1, 2 విలువలు వస్తాయి.
 ప్రతి సారి లూప్ నడిచినప్పుడు ఆ విలువను ప్రింట్ చేస్తుంది.
 
+<img width="1337" height="492" alt="Screenshot 2026-02-24 235550" src="https://github.com/user-attachments/assets/0a5019b0-0528-46c4-b80c-64ebe7d01444" />
+
 ---
 
 ## 🔐 Key Design Rules Implemented
