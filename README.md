@@ -245,8 +245,6 @@ By combining AI, multilingual support, and an interactive interface, the system 
 
 ---
 
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 
 
 
