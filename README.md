@@ -191,16 +191,6 @@ range(3) ద్వారా 0, 1, 2 విలువలు వస్తాయి.
 
 ---
 
-## 🔐 Key Design Rules Implemented
-
-* ❌ No code repetition in explanations
-* ❌ No symbols or syntax output
-* ✅ Only sentence-based explanations
-* ✅ Beginner-friendly language
-* ✅ Clean fallback explanations for safety
-
----
-
 ## 📈 Advantages
 
 * Helps beginners understand code easily
